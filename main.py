@@ -29,7 +29,7 @@ tim_color = tim_turt.color("red")
 #     tim_turt.forward(10)
 #     tim_turt.pendown()
 
-tim_turt.speed(1)
+tim_turt.speed(2)
 tim_turt.hideturtle()
 tim_turt.penup()
 tim_turt.goto(-50, 150)
